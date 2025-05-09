@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on New .Net Projects
 - 📫 How to reach me @mallempudisaiteja1@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Kill me or hate me i am still be a programmer
+- ⚡ Fun fact: Kill me or hate me i ll still be a programmer
 
 <!---
 Mallempudisaiteja/Mallempudisaiteja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
